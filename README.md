@@ -243,7 +243,7 @@ try {
 
 ## License
 
-GPL-3.0 - See LICENSE file for details
+MIT - See LICENSE file for details
 
 ## Support
 

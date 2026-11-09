@@ -1,6 +1,6 @@
 {
   "name": "salamoonder-js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A straightforward JS wrapper for Salamoonder's API, designed for easy integration and usage.",
   "type": "module",
   "main": "index.js",
@@ -47,9 +47,9 @@
     "datadome-bypass"
   ],
   "author": "Salamoonder LLC",
-  "license": "GPL-3.0",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Salamoonder-LLC/salamoonder-js"
+    "url": "git+https://github.com/salamoonder-com/salamoonder-js.git"
   }
 }
