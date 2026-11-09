@@ -248,4 +248,4 @@ GPL-3.0 - See LICENSE file for details
 ## Support
 
 For issues, feature requests, or questions, please visit:
-https://github.com/Salamoonder-LLC/salamoonder-js
+https://github.com/salamoonder-com/salamoonder-js
